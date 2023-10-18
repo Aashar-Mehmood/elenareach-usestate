@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/elenareach-usestate/static/css/main.f6548532.css",
+    "main.js": "/elenareach-usestate/static/js/main.7d481898.js",
+    "static/js/787.cb50c42a.chunk.js": "/elenareach-usestate/static/js/787.cb50c42a.chunk.js",
+    "index.html": "/elenareach-usestate/index.html",
+    "main.f6548532.css.map": "/elenareach-usestate/static/css/main.f6548532.css.map",
+    "main.7d481898.js.map": "/elenareach-usestate/static/js/main.7d481898.js.map",
+    "787.cb50c42a.chunk.js.map": "/elenareach-usestate/static/js/787.cb50c42a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6548532.css",
+    "static/js/main.7d481898.js"
+  ]
+}
